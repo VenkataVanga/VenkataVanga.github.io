@@ -1,0 +1,8 @@
+name: "Data science 6306 - UNIT #12"
+navbar:
+  title: "Data science 6306 - UNIT #12"
+  left:
+    - text: "AboutMe"
+      href: index.html
+    - text: "CaseStudy01"
+      href: MSDS6306_DDS_CaseStudy01.html
